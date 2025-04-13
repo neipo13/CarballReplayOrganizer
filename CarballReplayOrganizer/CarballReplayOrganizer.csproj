@@ -8,11 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ImGui.NET" Version="1.91.6.1" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\NetReplayParser\NetReplayParser.csproj" />
+    <ProjectReference Include="..\RocketLeagueReplayParser\RocketLeagueReplayParser\RocketLeagueReplayParser.csproj" />
   </ItemGroup>
 
 </Project>
