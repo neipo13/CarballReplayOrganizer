@@ -1,0 +1,3 @@
+[submodule "RocketLeagueReplayParser"]
+	path = RocketLeagueReplayParser
+	url = https://github.com/jjbott/RocketLeagueReplayParser
